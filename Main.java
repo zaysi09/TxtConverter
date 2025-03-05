@@ -10,7 +10,7 @@ public class Main {
          */
         
         System.out.println("Enter your files here below. Write \"Done\" when finished");
-        int count = 1;
+        int count = 0;
         boolean taskHeaderAdded = false;  // Track if a task header has been added
 
         while (true) {
